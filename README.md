@@ -31,8 +31,8 @@ Backend:PHP
 Требования к качеству программных средств, а также к способам обеспечения его контроля
 Качество разработки программных средств должно обеспечиваться соответствующими процедурами управления проектом по реализации ИС УС.
 ### Изображения
-*Главная страница: ![image](https://github.com/user-attachments/assets/4a5c3429-7b79-42ab-bf40-7a5230bc643c)
-*Регестрация: ![image](https://github.com/user-attachments/assets/36c984b5-5fd0-4635-9247-e1ce8c19d002)
-*Меню: ![image](https://github.com/user-attachments/assets/518a505f-be61-4fa2-b260-adb50b1fd353)
-*Админ панель: ![image](https://github.com/user-attachments/assets/98bb1e77-6243-4d9a-a0a1-d7d9ca9ed3f4)
+Главная страница: ![image](https://github.com/user-attachments/assets/4a5c3429-7b79-42ab-bf40-7a5230bc643c)
+Регестрация: ![image](https://github.com/user-attachments/assets/36c984b5-5fd0-4635-9247-e1ce8c19d002)
+Меню: ![image](https://github.com/user-attachments/assets/518a505f-be61-4fa2-b260-adb50b1fd353)
+Админ панель: ![image](https://github.com/user-attachments/assets/98bb1e77-6243-4d9a-a0a1-d7d9ca9ed3f4)
 Управляющий: ![image](https://github.com/user-attachments/assets/ad87e800-af6a-4725-bbc6-50a163d52c82)
