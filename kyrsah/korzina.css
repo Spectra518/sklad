@@ -1,0 +1,91 @@
+header{
+    height: 90px;
+    width: auto;
+    background-color:rgba(151, 188, 190, 0.655);
+    margin: 0%;
+}
+
+form{
+height: 800px;
+width: auto;
+background-color: rgba(151, 188, 190, 0.655);
+margin: 0%;
+}
+body{
+    font-family: Arial, sans-serif;
+    margin: auto;
+       
+}
+    
+.block {
+    color: #aaa;
+    float: none;
+    font-size: 30px;
+    height: 250px;
+    width: 250px;
+}   
+footer{
+    background-color: black;
+    height: 200px;
+    width: auto;
+    position: absolute;
+    top: 100%;
+
+}
+.pod{
+    color: aliceblue;
+    position: absolute;
+    left:25%;
+    background-color: black;
+    width: 1512px;
+    height: 200px;
+}
+.us{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 7%;
+    top: 2%;
+}
+.t{
+    position: absolute;
+    top: 2%;
+    right: 7%;
+}   
+.ex{
+    position: absolute;
+    top: 15%;
+    right: 3%;
+    color: black;
+}
+.korz{
+    position: absolute;
+    top: 2%;
+    right: 15%;
+}
+.pos{
+    border-radius: 50px;
+    position: absolute;
+    top: 23%;
+    left: 2%;
+    width: 1400px;
+    height: 25px;
+    color: #aaa;
+}
+.bok{
+    width: 800px;;
+    height: 500px;
+    position: absolute;
+    top: 30%;
+    left: 23%;
+    background-color: #aaaaaab3;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+.te{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 0%;
+    left: 30%;
+}
